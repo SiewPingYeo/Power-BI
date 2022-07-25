@@ -1,7 +1,9 @@
 # Power-BI
 This repo stores the dashboards I have created using PowerBI:
 
-1. 
+1. AdventureWorks 
+
+The dashboards below aim to monitor the sales, orders and revenue for the items sold through AdventureWorks. The thems of the dashboards are as follow: 1) Executive Summary 2) Product Details 3) Customer Details.
 
 
 ![Screenshot 2022-07-25 125331](https://user-images.githubusercontent.com/94337686/180701281-0e5520df-7212-46dd-abbe-abb44d9170db.jpg)
